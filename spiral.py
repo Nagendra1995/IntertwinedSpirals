@@ -1,6 +1,4 @@
-# spiral.py
-# COMP9444, CSE, UNSW
-#Author: Anant Krishna Mahale | z5277610
+
 
 import torch
 import torch.nn as nn
